@@ -3,7 +3,7 @@ import sys
 x = int(input('Enter first number'))
 y = int(input('Enter second number'))
 z = int(input('Enter third number'))
-a = x+y+z
+a = x+y+z+1
 print(a)
 
 if x>y and x>z :
